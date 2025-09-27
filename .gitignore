@@ -1,3 +1,4 @@
 .env
 skeddy.db
 __pycache__/
+venv/
